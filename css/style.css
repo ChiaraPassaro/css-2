@@ -1,0 +1,41 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+}
+
+.container {
+  /* padding: 20px; */
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.description {
+  /* width: 200px; */
+  height: 150px;
+  padding: 20px 20px 0 20px;
+  /* padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+  padding-left: 20px; */
+  /* background-color: blueviolet; */
+  background-image: url(../img/securitycheckup_scene_green_with_new_shield_632x224_aa47616274f98b7406bf487be7411124.png);
+  background-repeat: no-repeat;
+  background-position:  95% 50%;
+  background-size: 30%;
+  color: darkslategray;
+}
+
+h2 {
+  margin: 0;
+}
+
+a {
+  color: #5E9BEC;
+  text-decoration: none;
+}
+
+.call-to-action {
+  padding: 20px;
+  border-top: 1px solid gray;
+}
